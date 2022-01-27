@@ -73,6 +73,11 @@ html {
 .icn-sze {
     width: 2rem;
     height: 2rem;
+    transition: 0.5s ease;
+}
+
+.icn-sze:hover {
+    transform:scale(1.3);
 }
 
 /* Footer-icon */
